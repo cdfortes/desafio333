@@ -1,8 +1,8 @@
 <h1 align="center">Desafio333</h1>
 <h2 align="center"><a  href="2019-Novembro-WebSocket/README.md">Mês de Novembro</a></h2>
 
-O #Desafio333 é um desafio mensal SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas.
-A cada mês, o desafio girará em torno de uma tecnologia diferente. Neste mês de Novembro, a tecnologia abordada será o **WebSocket**.
+O #Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas.
+A cada 2 meses, o desafio girará em torno de uma tecnologia diferente. Neste mês de Novembro, a tecnologia abordada será o **WebSocket**.
 
 ## Como Participar
 
@@ -23,14 +23,14 @@ Após as 2 semanas de espera para os Pull Requests, abriremos votação no Githu
 
 ## Premiação
 
-1. O vencedor leva R$ 333 ***reais*** na sua conta bancária.
-2. O segundo colocado leva R$ 70 ***pila*** na sua conta bancária.
-3. O terceiro colocado leva R$ 50 ***conto*** na sua conta bancária.
+1. O vencedor leva R\$ 333 **_reais_** na sua conta bancária.
+2. O segundo colocado leva R\$ 70 **_pila_** na sua conta bancária.
+3. O terceiro colocado leva R\$ 50 **_conto_** na sua conta bancária.
 
 ## Regras
 
-- Os vencedores do mês atual, não poderão ganhar premiação no mês seguinte, mas poderão participar.
-- Moderadores da Comunidade Código Falado não poderão vencer Desafios IMPARES (mês sim, mês não).
+- Os vencedores do mês atual, não poderão ganhar premiação no desafio seguinte, mas poderão participar.
+- Moderadores da Comunidade Código Falado não poderão vencer Desafios que ajudarem a criar.
 - Os dados dos vencedores serão solicitados privadamente via Twitch, então para participar, é necessário **seguir @CodigoFalado** no [Twitch](https://www.twitch.tv/codigofalado).
 - O principal objetivo do desafio é o incentivo ao estudo. Então não usaremos critérios demasiadamente técnicos para avaliar o produto entregue.
 - O desafio é totalmente desburocratizado visando facilitar a participação de todos. Mas abusos (bots, copiar código de outros participantes, etc) denunciados serão analisados e desclassificados.
