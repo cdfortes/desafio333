@@ -1,23 +1,23 @@
 <h1 align="center">Desafio333</h1>
-<h2 align="center"><a  href="2020-Janeiro-Leitura-Organica/README.md">Mês de Janeiro</a></h2>
+<h2 align="center"><a  href="2020-QuarentenaTech/README.md">Desafio Atual: #QuarentenaTech</a></h2>
 
 O #Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas.
-A cada 2 meses, o desafio girará em torno de uma tecnologia diferente. Neste mês de Janeiro, a tecnologia abordada será o **Front-End**.
+A cada 2 meses, o desafio girará em torno de uma tecnologia diferente. O desafio atual é para participar da [#QuarentenaTech](https://quarentena.tech). Vicê montará uma equipe de 3 participantes e escolherá entre **Jogo da Velha** e **Jogo Tetris**.
 
 ## Como Participar
 
 Lançaremos um desafio novo no **primeiro sábado** do mês (a cada 2 meses).
-Não é preciso se cadastrar. Os participantes terão 2 semanas para enviar suas versões.
+Não é preciso se cadastrar. Os participantes terão 1 mês e meio para enviar suas versões.
 
 1. Faça um Fork deste repositório.
 2. Entre na pasta do desafio atual e crie uma pasta com seu Github Username.
 3. Desenvolva o desafio dentro da sua pasta recém-criada.
 4. Ao terminar, envie um Pull Request com a sua versão.
-5. (Opcional) Acompanhe a nossa comunidade no [Discord](https://discord.gg/CbeEaEe) para mais detalhes e tirar dúvidas.
+5. (Opcional) Acompanhe a nossa comunidade no [Discord](https://discord.gg/3y4X9pm) para mais detalhes e tirar dúvidas.
 
 ## Votação
 
-Após as 2 semanas de espera para os Pull Requests, abriremos votação no Github e compartilharemos os participantes nas Redes Sociais.
+Após 1 mês e meio de espera para os Pull Requests, abriremos votação no Github e compartilharemos os participantes nas Redes Sociais.
 
 **Em caso de empate, o desempate será feito via votação no Twitch na Live de apresentação dos Vencedores**
 
